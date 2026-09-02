@@ -4,7 +4,7 @@ Downloads and updates for [Moondonut](https://app.moondonut.md), an IDE for
 Markdown documents.
 
 The source lives elsewhere; this repository holds nothing but release
-artifacts. Get the newest build from **[Releases](../../releases/latest)**.
+artifacts. Get the newest build from **[Releases](https://github.com/dimasatinaev/moondonut-releases/releases/latest)**.
 
 ## Downloads
 
@@ -17,3 +17,5 @@ artifacts. Get the newest build from **[Releases](../../releases/latest)**.
 
 Once installed, Moondonut updates itself from here: new versions arrive in the
 app as *Update available · Install*.
+
+Questions: hello@moondonut.md
